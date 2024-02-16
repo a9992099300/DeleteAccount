@@ -1,4 +1,4 @@
-# Instructions for Deleting an Account
+# Instructions for Deleting an Account applications "My workshop: Accounting for orders"
 
 If you have decided to delete your account in our app, please follow the steps below. 
 Please note that account deletion is an irreversible process, and all information associated with your account will be permanently deleted.
